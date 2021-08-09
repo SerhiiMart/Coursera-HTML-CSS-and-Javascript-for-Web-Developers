@@ -1,3 +1,4 @@
-#For deletion or renaming. Need to clean this up sometime.
+#My first OpenCart test project attempt tested in xampp.
 
-Clone first.
+
+
